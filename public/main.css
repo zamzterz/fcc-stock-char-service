@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+canvas {
+  margin: 0 auto;
+}
